@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: quinkanR\nType: Package\nTitle: Makes the Australian Historical Colonial Census Data Archive easier to use\nVersion: 0.0.0.9000\nAuthor: \"Alexander Rohan <rohan.alexander@anu.edu.au> [aut, cre]\"\nMaintainer: The package maintainer <yourself@somewhere.net>\nDescription: This package allows you to more easily use data from the \n    Australian Historical Colonial Census Data Archive. The data is provided\n    in a consist format that can be more easily used.\nLicense: CC0\nEncoding: UTF-8\nLazyData: true\nImports: dplyr\nRoxygenNote: 6.0.1\n",
+    "created" : 1491802264075.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3474917098",
+    "id" : "4AEFAF55",
+    "lastKnownWriteTime" : 1491803109,
+    "last_content_update" : 1491803109,
+    "path" : "~/Sync/quinkanR/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

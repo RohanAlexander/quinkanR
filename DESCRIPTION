@@ -1,0 +1,14 @@
+Package: quinkanR
+Type: Package
+Title: Makes the Australian Historical Colonial Census Data Archive easier to use
+Version: 0.0.0.9000
+Author: "Alexander Rohan <rohan.alexander@anu.edu.au> [aut, cre]"
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This package allows you to more easily use data from the 
+    Australian Historical Colonial Census Data Archive. The data is provided
+    in a consist format that can be more easily used.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Imports: dplyr
+RoxygenNote: 6.0.1

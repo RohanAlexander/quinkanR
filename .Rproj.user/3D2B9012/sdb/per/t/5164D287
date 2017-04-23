@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#' Add together two numbers.\n#'\n#' @param x A number.\n#' @param y A number.\n#' @return The sum of \\code{x} and \\code{y}.\n#' @examples\n#' add(1, 1)\n#' add(10, 1)\nadd <- function(x, y) {\n  x + y\n}\n\n# Hello, world!\n#\n# This is an example function named 'hello'\n# which prints 'Hello, world!'.\n#\n# You can learn more about package authoring with RStudio at:\n#\n#   http://r-pkgs.had.co.nz/\n#\n# Some useful keyboard shortcuts for package authoring:\n#\n#   Build and Reload Package:  'Cmd + Shift + B'\n#   Check Package:             'Cmd + Shift + E'\n#   Test Package:              'Cmd + Shift + T'\n\nhello <- function() {\n  print(\"Hello, world!\")\n}\n",
+    "created" : 1491801839920.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2363453852",
+    "id" : "5164D287",
+    "lastKnownWriteTime" : 1491803091,
+    "last_content_update" : 1491803096242,
+    "path" : "~/Sync/quinkanR/R/hello.R",
+    "project_path" : "R/hello.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
